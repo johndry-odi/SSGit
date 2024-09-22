@@ -1,0 +1,6 @@
+CREATE OR REPLACE ss_git_pro
+AS
+
+BEGIN
+   NULL;
+END;
